@@ -15,3 +15,7 @@ To run this ROS package, use the following command:
 ```bash
 roslaunch ros_task_1 task_6.launch 
 ```
+##  urdf file :
+1- model consist of only a rectangle with dimentions 10 (length) cm x 10 (width) cm x5 (height) cm
+
+2- semisphere on top of the rectangle in the middle with  a radius of 2.5 cm
