@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<launch>
+   <node name="publisher_cpp_nod" type="publisher_node" pkg="ros_task_1" output="screen"/>
+  <node name="subscriber_cpp_nod" type="subscriber_node" pkg="ros_task_1" output="screen"/>
+
+</launch>
